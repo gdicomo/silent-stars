@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  margin: 0;
+  height: 100vh;
+}
+#map {
+  flex: 1;
+  background: #111;
+  position: relative;
+}
+.star {
+  position: absolute;
+  background: #fff033;
+  border: none;
+  border-radius: 50%;
+  width: 240px;
+  height: 240px;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-weight: bold;
+}
+.planet {
+  position: absolute;
+  background: #2a9df4;
+  border: none;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+#info-panel {
+  flex: 1;
+  background: #f4f4f4;
+  padding: 20px;
+  overflow-y: auto;
+}

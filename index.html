@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Silent Stars Cluster Map</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="map">
+    <button class="star" data-planet="SKARN" style="top:20px;left:150px;">Skarn</button>
+    <button class="planet" data-planet="REVIVER" style="top:300px;left:150px;">Reviver</button>
+	<button class="planet" data-planet="LARKBELT" style="top:400px;left:150px;width:120px;height:30px;">The Larkbelt</button>
+	<button class="planet" data-planet="OBLIVION" style="top:550px;left:150px;width:80px;height:80px;">Oblivion</button>
+    <button class="planet" data-planet="SINK" style="top:700px;left:150px;">Skarn-VI</button>
+	
+    <button class="star" data-planet="MARENCOR" style="top:20px;left:450px;">Marencor</button>
+    <button class="planet" data-planet="VASPERA" style="top:300px;left:450px;">Vaspera</button>
+	<button class="planet" data-planet="ALETHEIA" style="top:400px;left:450px;">Aletheia</button>
+	<button class="planet" data-planet="SOLANO" style="top:550px;left:450px;width:80px;height:80px;">Solano</button>
+    <button class="planet" data-planet="NAZIR" style="top:700px;left:450px;">Nazir</button>
+    <button class="planet" data-planet="AVENANT" style="top:800px;left:450px;">Avenant</button>
+	
+	<button class="planet" data-planet="NEPENTHE" style="top:500px;left:600px;width:80px;height:800px;">Nepenthe Drift</button>
+	<button class="planet" data-planet="NEPENTHE" style="top:350px;left:600px;width:120px;height:60px;">The Wake</button>
+	
+	<button class="star" data-planet="HALCYON" style="top:20px;left:750px;">Halcyon</button>
+	<button class="planet" data-planet="PRAXIS" style="top:300px;left:750px;">Anathes / Praxis</button>
+	<button class="planet" data-planet="EIDARA" style="top:400px;left:750px;">Eidara</button>
+	<button class="planet" data-planet="MIREDDIN" style="top:550px;left:750px;width:80px;height:80px;">Mireddin</button>
+	<button class="planet" data-planet="IRONBELT" style="top:700px;left:750px;width:120px;height:30px;">Ironbelt</button>
+    <button class="planet" data-planet="VELETRIS" style="top:800px;left:750px;">Pericant / Veletris</button>
+  </div>
+
+  <div id="info-panel">
+    <h2 id="planet-name">Select a Planet</h2>
+	<p id="planet-system"></p>
+	<p id="planet-status"></p>
+    <p id="planet-physical"></p>
+    <p id="planet-history"></p>
+    <h3>Adventure Log</h3>
+    <ul id="adventure-log"></ul>
+    <h3>Missions</h3>
+    <ul id="missions"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
