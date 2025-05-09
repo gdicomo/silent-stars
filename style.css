@@ -15,8 +15,8 @@ body {
   background: #fdfcd7;
   border: none;
   border-radius: 50%;
-  width: 240px;
-  height: 240px;
+  width: 24%;
+  height: 24%;
   transform: translate(-50%, -50%);
   color: black;
   font-weight: bold;
@@ -26,8 +26,8 @@ body {
   background: #2a9df4;
   border: none;
   border-radius: 50%;
-  width: 60px;
-  height: 60px;
+  width: 7%;
+  height: 7%;
   transform: translate(-50%, -50%);
   color: white;
   font-weight: bold;
@@ -37,7 +37,10 @@ body {
 .planet:hover {
 	/* transform: translateX(-75%) translateY(25%); */
 	transform: scale(1.1) translate(-45.454545%, -45.454545%);
-	
+}
+.giant {
+  width: 9%;
+  height: 9%;
 }
 #info-panel {
   flex: 1;
