@@ -1,4 +1,67 @@
 {
+  "REVIVER": {
+	"system": "Skarn",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "THE LARKBELT": {
+	"system": "Skarn",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "OBLIVION STATION": {
+	"system": "Skarn",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "THE SINK": {
+	"system": "Skarn",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  
+  
+  
   "VASPERA": {
 	"system": "Marencor",
 	"status": "Union-Aligned Autonomous Government",
@@ -64,6 +127,117 @@
 	"status": "Constellar Biotechnology Hub",
     "physical": "Saturn-class ice giant; uninhabitable. Population lives within orbiting Island-3-pattern enclosed space colonies.",
     "history": "Avenant was one of the final systems to join the SSC Constellar Network, and has since flourished into a technologically integrated society with robust access to Omninet services, virtual infrastructure, and post-labor economic platforms. While local governance remains technically independent, Avenant’s vibrant cultural and civic life is increasingly integrated with the wider Union under SSC best-in-class management protocols. Visitors should be aware of subtle cultural distinctions between SSC-Constellar-aligned citizens and those from older, more traditional Marencor populations.",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  
+  
+  "NEPENTHE DRIFT": {
+	"system": "N/A",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "THE WAKE": {
+	"system": "N/A",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  
+  
+  
+  
+  "PRAXIS": {
+	"system": "Halcyon",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "EIDARA": {
+	"system": "Halcyon",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "MIREDDIN": {
+	"system": "Halcyon",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "THE IRONBELT": {
+	"system": "Halcyon",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
+    "adventure_log": [
+      "NULL"
+    ],
+    "missions": [
+      "NULL",
+      "NULL",
+	  "NULL"
+    ]
+  },
+  
+  "VELETRIS": {
+	"system": "Halcyon",
+	"status": " ",
+    "physical": " ",
+    "history": " ",
     "adventure_log": [
       "NULL"
     ],
