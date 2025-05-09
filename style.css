@@ -11,7 +11,8 @@ body {
 }
 .star {
   position: absolute;
-  background: #fff033;
+  /*background: #fff033;*/
+  background: #fdfcd7;
   border: none;
   border-radius: 50%;
   width: 240px;
@@ -31,6 +32,12 @@ body {
   color: white;
   font-weight: bold;
   cursor: pointer;
+  transition: transform 0.2s;
+}
+.planet:hover {
+	/* transform: translateX(-75%) translateY(25%); */
+	transform: scale(1.1) translate(-45.454545%, -45.454545%);
+	
 }
 #info-panel {
   flex: 1;
