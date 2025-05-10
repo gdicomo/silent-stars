@@ -1,13 +1,24 @@
 body {
   font-family: Arial, sans-serif;
   display: flex;
-  margin: 0;
-  height: 100vh;
+  margin: 0%;
+  width: 100vw;
+  aspect-ratio: 2/1;
 }
 #map {
   flex: 1;
   background: #111;
   position: relative;
+  width: 50vw;
+  aspect-ratio: 1;
+}
+#info-panel {
+  flex: 1;
+  background: #f4f4f4;
+  padding: 2%;
+  width: 50vw;
+  aspect-ratio: 1;
+  overflow-y: scroll;
 }
 .star {
   position: absolute;
@@ -42,9 +53,28 @@ body {
   width: 9%;
   height: 9%;
 }
+@media only screen and (max-width: 800px) {
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+#map {
+  flex: 1;
+  background: #111;
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+}
 #info-panel {
   flex: 1;
   background: #f4f4f4;
-  padding: 20px;
-  overflow-y: auto;
+  padding: 2%;
+  width: 100%;
+  aspect-ratio: 1;
+  overflow-y: scroll;
+}
 }
