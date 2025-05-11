@@ -1,9 +1,9 @@
 {
   "REVIVER": {
 	"system": "Skarn",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Autonomous Post-Reintegration Planet",
+    "physical": "The symmetric world. Previously a cold, low-atmosphere planet similar to Mars, Reviver entered the habitable zone when Skarn expanded into a red giant. Reviver was terraformed in antiquity, and now supports a nearly Earth-standard biome.",
+    "history": "Formerly a SecComm quarantine site, Reviver has undergone remarkable transformation since integration into the Union fold. Its population, largely descended from cultural isolationists and advanced pre-Union thinkers, now thrives under a local council system emphasizing mathematical literacy, architectural harmony, and universal education. Visitors are encouraged to approach local traditions with respect—many civic customs are encoded in geometric language or symbolic logic.",
     "adventure_log": [
       "NULL"
     ],
@@ -16,9 +16,9 @@
   
   "THE LARKBELT": {
 	"system": "Skarn",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Independent Habitat Zone (Non-Union Aligned)",
+    "physical": "Asteroid Belt",
+    "history": "Originally developed as a dumping ground for SecComm undesirables, the Larkbelt has flourished into a uniquely libertarian network of habitats, drydock towns, and drifting communes. Although outside direct Union administration, the Larks have established their own effective inter-habitat law and resource-sharing compacts. Trade is common; caution is advised when navigating by old charts, as Larkbelt settlements frequently shift position and allegiance. Lastlight Dispatch, headquartered here, remains a key logistical partner in hard-to-reach systems. Union personnel are advised to treat Lark customs with respect; attempts to impose top-down order have been historically unsuccessful.",
     "adventure_log": [
       "NULL"
     ],
@@ -31,9 +31,9 @@
   
   "OBLIVION STATION": {
 	"system": "Skarn",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Port of Call / Legacy Research Hub",
+    "physical": "Free-floating space station, orbiting the Lagrange-3 point of Skarn-V",
+    "history": "Once a remote SecComm research station, Oblivion has grown into a multicultural micro-society built on traditions of secrecy, mutual benefit, and the pursuit of knowledge. Its development over the ThirdComm period has exceeded expectations, and the station is now considered an important haven for political dissidents and independent scientific researchers, as well as a waystation for long-haul pilots, archeo-xeno specialists, and soldiers of fortune.",
     "adventure_log": [
       "NULL"
     ],
@@ -46,9 +46,9 @@
   
   "THE SINK": {
 	"system": "Skarn",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Union-Aligned Oceanic Development Zone (High Autonomy)",
+    "physical": "An icy moon of Skarn-VI with a deep subsurface ocean, warmed by tidal action.",
+    "history": "A technological marvel, the Sink is a network of colonies threaded through a massive subsurface ocean network, accessible via converted SecComm pressure tunnels and advanced bathystructural engineering. After gaining independence from direct Union administration during the ThirdComm reformation period, the Sink has developed into a post-scarcity oceanic society that values introspection and environmental harmony. By maintaining strong economic ties with Union, they have achieved near-Core levels of material prosperity.",
     "adventure_log": [
       "NULL"
     ],
@@ -141,9 +141,9 @@
   
   "NEPENTHE DRIFT": {
 	"system": "N/A",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Interstellar Shoal Zone",
+    "physical": "Broad, dense region of interstellar dust, gas, and planetesimals on the straight-line path between Halcyon and Marencor.",
+    "history": "This hazard to interstellar shipping predates human colonization and has resisted full mapping, due to erratic sensor interference, gravitational anomalies, and persistent navigational drift. Mass density within Nepenthe Drift is too high to support lightspeed travel, and poorly-understood spatio-temporal anomalies inhibit OmniNet connectivity and long-range comms. Ships entering uncharted regions of the Drift often disappear. Personnel are authorized to engage in lethal self-defense when attacked within the Drift. No rescue assets are stationed within the cloud. You are your own extraction plan.",
     "adventure_log": [
       "NULL"
     ],
@@ -156,9 +156,9 @@
   
   "THE WAKE": {
 	"system": "N/A",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Strategic Transit Corridor (IPS-N Monitored)",
+    "physical": "A nearly linear low-density feature of Nepenthe Drift.",
+    "history": "This transit corridor offers the only reliable straight-line travel between Halcyon and Marencor. In spite of the ongoing threat of piracy, the corridor persists due to the enormous time-savings relative to circling around Nepenthe Drift's perimeter. The Wake is reinforced by IPS-N graviton buoys, drone minefields, and escort protocols; passage is subject to scheduling, registration, and inspection. Smugglers and non-declared vessels risk interdiction. The Wake is essential to the interstellar supply web and the ongoing prosperity of the sector.",
     "adventure_log": [
       "NULL"
     ],
@@ -175,9 +175,9 @@
   
   "PRAXIS": {
 	"system": "Halcyon",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Strategic Development World (HA Purview)",
+    "physical": "Tidally locked moon of Anathes; completes an orbit every 91 days. Too close to Halcyon to be habitable. The day-side of Praxis is exposed to a shower of lethal ionizing radiation.",
+    "history": "Praxis is a keystone world for Harrison Armory operations in the sector. Here, a network of surface-side trawlers and orbital foundries keep pace with the unique demands of this planet's environment, producing critical quasi-stable duodecimates for the galactic marketplace. Praxis' powerful industrial base, strong local governance, and sophisticated logistics networks make it a model for Armory-led development.",
     "adventure_log": [
       "NULL"
     ],
@@ -235,9 +235,9 @@
   
   "VELETRIS": {
 	"system": "Halcyon",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Union-Aligned, Independent Administration",
+    "physical": "Habitable moon of picturesque gas giant Pericant. Beyond the expected habitable zone; internally heated by tidal friction.",
+    "history": "Veletris is a vibrant and diverse ecumenopolis, with a flourishing arts scene and a long tradition of civic participation. Governed by a decentralized council system, it has emerged as a center of intersystem diplomacy and regional planning. The planet’s multi-ethnic heritage and neutral politics make it an ideal meeting point for stakeholders from across the cluster. Considered a strong candidate for near-term Union Core status.",
     "adventure_log": [
       "NULL"
     ],
