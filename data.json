@@ -17,7 +17,7 @@
   "THE LARKBELT": {
 	"system": "Skarn",
 	"status": "Independent Habitat Zone (Non-Union Aligned)",
-    "physical": "Asteroid Belt",
+    "physical": "Asteroid belt",
     "history": "Originally developed as a dumping ground for SecComm undesirables, the Larkbelt has flourished into a uniquely libertarian network of habitats, drydock towns, and drifting communes. Although outside direct Union administration, the Larks have established their own effective inter-habitat law and resource-sharing compacts. Trade is common; caution is advised when navigating by old charts, as Larkbelt settlements frequently shift position and allegiance. Lastlight Dispatch, headquartered here, remains a key logistical partner in hard-to-reach systems. Union personnel are advised to treat Lark customs with respect; attempts to impose top-down order have been historically unsuccessful.",
     "adventure_log": [
       "NULL"
@@ -191,7 +191,7 @@
   "EIDARA": {
 	"system": "Halcyon",
 	"status": "Union Scientific Reserve (Restricted Access)",
-    "physical": "Halogen world undergoing epochal reshaping by glaciation. Stark Earthlike beauty; highly toxic atmosphere. Unsuitable for major habitation.",
+    "physical": "Terrestrial halogen world undergoing epochal reshaping by glaciation. Stark Earthlike beauty; highly toxic atmosphere. Unsuitable for major habitation.",
     "history": "Eidara is a low-population world rich in archaeological and ecological significance. One of the few known worlds with confirmed pre-human structures of unknown origin; Union xenohistorical teams have worked for decades to study them. Due to the sensitive nature of these sites, planetary access is tightly controlled, and all excavation is regulated by the Eidaran Council in cooperation with Union Science Bureau.",
     "adventure_log": [
       "NULL"
@@ -205,9 +205,9 @@
   
   "MIREDDIN": {
 	"system": "Halcyon",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "OmniNet Relay Node",
+    "physical": "Terrestrial world. Lush and humid, with a thick atmosphere that nearly blots out the sky. Quasi-habitable: the atmosphere is barely breathable at a constant 100% humidity. Mireddin's biome is dominated by microbial mats that use chemosynthesis to exploit chemical gradients around volcanic vents.",
+    "history": "Mireddin was once a compromised SecComm relay node, abandoned for over a century due to internal instability and long-term communications corruption. In recent decades, ThirdComm has restored portions of the infrastructure and begun reintegration efforts. The planet remains lightly populated by resilient settlers descended from early relay technicians and maintenance crews.",
     "adventure_log": [
       "NULL"
     ],
@@ -220,9 +220,9 @@
   
   "THE IRONBELT": {
 	"system": "Halcyon",
-	"status": " ",
-    "physical": " ",
-    "history": " ",
+	"status": "Civilian Industrial Belt",
+    "physical": "Planetary-mass asteroid belt rich in iron and other minerals.",
+    "history": "The Ironbelt is an important center for asteroid mining of bulk metals, materials processing, and small-scale ship fabrication. The largest mining concern is Marnix Beltworks, a millennia-old offshoot of the colony on Veletris. Known for their transparency, collective ownership, and history of inter-factional mediation, Marnix has become a trusted neutral party in the system. Many ThirdComm supply contracts are handled here thanks to their efficiency and reliability. Note: the Ironbelt has no formal military presence, but maintains robust civilian defense systems. Visiting ships are expected to abide by the Belt Neutrality Code.",
     "adventure_log": [
       "NULL"
     ],
@@ -236,7 +236,7 @@
   "VELETRIS": {
 	"system": "Halcyon",
 	"status": "Union-Aligned, Independent Administration",
-    "physical": "Habitable moon of picturesque gas giant Pericant. Beyond the expected habitable zone; internally heated by tidal friction.",
+    "physical": "Habitable moon of picturesque gas giant Pericant. Beyond Halcyon's expected habitable zone; internally heated by tidal friction.",
     "history": "Veletris is a vibrant and diverse ecumenopolis, with a flourishing arts scene and a long tradition of civic participation. Governed by a decentralized council system, it has emerged as a center of intersystem diplomacy and regional planning. The planet’s multi-ethnic heritage and neutral politics make it an ideal meeting point for stakeholders from across the cluster. Considered a strong candidate for near-term Union Core status.",
     "adventure_log": [
       "NULL"
