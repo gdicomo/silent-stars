@@ -23,18 +23,20 @@ body {
 .star {
   position: absolute;
   /*background: #fff033;*/
-  background: #fdfcd7;
+  /*background: #fdfcd7;*/
+  background:none;
   border: none;
   border-radius: 50%;
   width: 24%;
   height: 24%;
   transform: translate(-50%, -50%);
-  color: black;
+  color: white;
   font-weight: bold;
 }
 .planet {
   position: absolute;
-  background: #2a9df4;
+  /*background: #2a9df4;*/
+  background: none;
   border: none;
   border-radius: 50%;
   width: 7%;
@@ -51,6 +53,10 @@ body {
 }
 .giant {
   width: 9%;
+  height: 9%;
+}
+.ringed {
+  width: 14.56%;
   height: 9%;
 }
 @media only screen and (max-aspect-ratio: 1/1) {
