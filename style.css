@@ -70,7 +70,7 @@ body {
   height: 100vh;
 }
 #map {
-  font-size: 1em;
+  font-size: 2em;
   flex: 1;
   background: #111;
   position: relative;
@@ -78,11 +78,11 @@ body {
   aspect-ratio: 1;
 }
 #info-panel {
-  font-size: 1em;
+  font-size: 2em;
   flex: 1;
   background: #f4f4f4;
   padding: 2%;
-  width: 98%;
+  width: 96%;
   aspect-ratio: 1;
   overflow-y: scroll;
 }
