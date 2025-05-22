@@ -7,7 +7,7 @@ body {
 }
 #map {
   flex: 1;
-  background: #111;
+  background: #000000;
   position: relative;
   width: 50vw;
   aspect-ratio: 1;
