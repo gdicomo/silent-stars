@@ -87,7 +87,7 @@
 	"status": "IPA Partner State",
     "physical": "Temperate terrestrial world, somewhat smaller than Earth. Ideally suited for habitation and agriculture.",
     "history": "Once barren, Aletheia was seeded with life by an early Union settlement ship. The people of Aletheia live in harmony with nature, allowing it to support scattered population centers while serving as Marencor system's breadbasket. Once a member state of the IPA, Aletheia today is a cultural gem of the system, a site of flourishing artistic, academic, and spiritual traditions. Many Aletheian Councils maintain formal alliances with Vaspera but often exercise independent judgment in interplanetary affairs. Considered a near-term candidate for admission to Union Core status.",
-    "post_blackout": "Aletheia has recently been drawn into war with Nazir as part of the resurgent IPA. In the wake of the disastrous Battle of Nazir, IPA mech forces depend on the Aletheian fleet for transport and logistics. Aletheia recently came under attack by an out-system fleet identifying itself as the Promethean Flame. Although the main Promethean fleet was driven off, substantial land forces remain on-planet. Aletheia is resource-rich, but its people are ill-suited to the chaos of the post-Blackout period.",
+    "post_blackout": "Aletheia has recently been drawn into war against Nazir, as part of the resurgent IPA. In the wake of the disastrous Battle of Nazir, IPA mech forces depend on the Aletheian fleet for transport and logistics. Aletheia recently came under attack by an out-system fleet identifying itself as the Promethean Flame. Although the main Promethean fleet was driven off, substantial land forces remain on-planet. Aletheia is resource-rich, but its people are ill-suited to the chaos of the post-Blackout period.",
 	"adventure_log": [
       "1 - STOLEN ROYAL - 404 pilots protected a humanitarian aid shipment from Solano to Kardak Vale, first from a hijacking attempt by Promethean operatives, and then from attack by Naziri Compact mechs."
     ],
@@ -264,6 +264,7 @@
     ]
   }
 }
+
 
 
 
