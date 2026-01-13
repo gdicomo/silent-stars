@@ -19,6 +19,7 @@ function loadPlanetInfo(name) {
   document.getElementById('planet-status').textContent = "Status: " + info.status;
   document.getElementById('planet-physical').textContent = "Physical Characteristics: " + info.physical;
   document.getElementById('planet-history').textContent = "History: " + info.history;
+  document.getElementById('planet-history').textContent = "Post-Blackout: " + info.post_blackout;
 
   const logList = document.getElementById('adventure-log');
   logList.innerHTML = '';
@@ -36,3 +37,4 @@ function loadPlanetInfo(name) {
     missionsList.appendChild(li);
   });
 }
+
