@@ -4,7 +4,8 @@
 	"status": "Autonomous Post-Reintegration Planet",
     "physical": "The symmetric world. Previously a cold, low-atmosphere planet similar to Mars, Reviver entered the habitable zone when Skarn expanded into a red giant. Reviver was terraformed in antiquity, and now supports a nearly Earth-standard biome.",
     "history": "Formerly a SecComm quarantine site, Reviver has undergone remarkable transformation since integration into the Union fold. Its population, largely descended from cultural isolationists and advanced pre-Union thinkers, now thrives under a local council system emphasizing mathematical literacy, architectural harmony, and universal education. Visitors are encouraged to approach local traditions with respect—many civic customs are encoded in geometric language or symbolic logic.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -19,7 +20,8 @@
 	"status": "Independent Habitat Zone (Non-Union Aligned)",
     "physical": "Asteroid belt",
     "history": "Originally developed as a dumping ground for SecComm undesirables, the Larkbelt has flourished into a uniquely libertarian network of habitats, drydock towns, and drifting communes. Although outside direct Union administration, the Larks have established their own effective inter-habitat law and resource-sharing compacts. Trade is common; caution is advised when navigating by old charts, as Larkbelt settlements frequently shift position and allegiance. Lastlight Dispatch, headquartered here, remains a key logistical partner in hard-to-reach systems. Union personnel are advised to treat Lark customs with respect; attempts to impose top-down order have been historically unsuccessful.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -34,7 +36,8 @@
 	"status": "Port of Call / Legacy Research Hub",
     "physical": "Free-floating space station, orbiting the Lagrange-3 point of Skarn-V",
     "history": "Once a remote SecComm research station, Oblivion has grown into a multicultural micro-society built on traditions of secrecy, mutual benefit, and the pursuit of knowledge. Its development over the ThirdComm period has exceeded expectations, and the station is now considered an important haven for political dissidents and independent scientific researchers, as well as a waystation for long-haul pilots, archeo-xeno specialists, and soldiers of fortune.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -49,7 +52,8 @@
 	"status": "Union-Aligned Oceanic Development Zone (High Autonomy)",
     "physical": "An icy moon of Skarn-VI with a deep subsurface ocean, warmed by tidal action.",
     "history": "A technological marvel, the Sink is a network of colonies threaded through a massive subsurface ocean network, accessible via converted SecComm pressure tunnels and advanced bathystructural engineering. After gaining independence from direct Union administration during the ThirdComm reformation period, the Sink has developed into a post-scarcity oceanic society that values introspection and environmental harmony. By maintaining strong economic ties with Union, they have achieved near-Core levels of material prosperity.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -66,8 +70,9 @@
 	"system": "Marencor",
 	"status": "Union-Aligned Autonomous Government",
     "physical": "Hot, dry super-Earth. Vast plains, inhospitable thanks to the thin atmosphere and scorching light of nearby Marencor, are home to solar farms and industry. Most of the population makes their homes in kilometers-deep valleys, where they find a breathable atmosphere, liquid water, and shelter from the heat.",
-    "history": "Magellan, the pre-Fall generation ship that settled Vaspera millennia ago, is still visible in orbit as one of the system's most scenic vistas. Once the seat of the Inner Planets Alliance, Vaspera boasts a proud legacy of industrial innovation, resource management, and planetary-scale governance. Since Union integration, Vaspera has restructured its military-industrial base for peaceful purposes and now provides logistical support, medical exports, and shipwright expertise to nearby systems. A robust educational reform program is in progress. Vaspera retains ceremonial control over the old IPA defense fleet, now refit for patrol and disaster relief. The local government remains proud of its independence and is considered a model for responsible planetary autonomy.\n \nPost-Blackout, Vasperan politics progressively radicalized in response to the percieved power vacuum. Under the banner of the ancient IPA, a newly militarized Vaspera united with Aletheia and seized contested infrastructure around Solano. An attempted strike at the Naziri homeland failed disastrously, leaving the war at a stalemate. The IPA position is tenuous, but they could easily generate momentum if given the opportunity.",
-    "adventure_log": [
+    "history": "Magellan, the pre-Fall generation ship that settled Vaspera millennia ago, is still visible in orbit as one of the system's most scenic vistas. Once the seat of the Inner Planets Alliance, Vaspera boasts a proud legacy of industrial innovation, resource management, and planetary-scale governance. Since Union integration, Vaspera has restructured its military-industrial base for peaceful purposes and now provides logistical support, medical exports, and shipwright expertise to nearby systems. A robust educational reform program is in progress. Vaspera retains ceremonial control over the old IPA defense fleet, now refit for patrol and disaster relief. The local government remains proud of its independence and is considered a model for responsible planetary autonomy.",
+    "post_blackout": "Vasperan politics progressively radicalized in response to the percieved power vacuum. Under the banner of the ancient IPA, a newly militarized Vaspera united with Aletheia and seized contested infrastructure around Solano. An attempted strike at the Naziri homeland failed disastrously, leaving the war at a stalemate. The IPA position is tenuous, but they could easily generate momentum if given the opportunity.",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -81,8 +86,9 @@
     "system": "Marencor",
 	"status": "Union-Aligned, Partial Reintegration",
     "physical": "Temperate terrestrial world, somewhat smaller than Earth. Ideally suited for habitation and agriculture.",
-    "history": "Once barren, Aletheia was seeded with life by an early Union settlement ship. The people of Aletheia live in harmony with nature, allowing it to support scattered population centers while serving as Marencor system's breadbasket. Once a member state of the IPA, Aletheia today is a cultural gem of the system, a site of flourishing artistic, academic, and spiritual traditions. Many Aletheian Councils maintain formal alliances with Vaspera but often exercise independent judgment in interplanetary affairs. Considered a near-term candidate for admission to Union Core status.\n \nAs part of the resurgent Inner Planets Alliance, Aletheia has recently been drawn into war with the Naziri Compact. In the wake of the disastrous Battle of Nazir, IPA mech forces are increasingly dependent on the Aletheian fleet for transport and logistics.\n \nAletheia recently came under attack by an out-system fleet identifying itself as the Promethean Flame. Although the main part of the fleet was driven off, substantial Promethean land forces remain on-planet.",
-    "adventure_log": [
+    "history": "Once barren, Aletheia was seeded with life by an early Union settlement ship. The people of Aletheia live in harmony with nature, allowing it to support scattered population centers while serving as Marencor system's breadbasket. Once a member state of the IPA, Aletheia today is a cultural gem of the system, a site of flourishing artistic, academic, and spiritual traditions. Many Aletheian Councils maintain formal alliances with Vaspera but often exercise independent judgment in interplanetary affairs. Considered a near-term candidate for admission to Union Core status.",
+    "post_blackout": "As part of the resurgent Inner Planets Alliance, Aletheia has recently been drawn into war with the Naziri Compact. In the wake of the disastrous Battle of Nazir, IPA mech forces are increasingly dependent on the Aletheian fleet for transport and logistics. Aletheia recently came under attack by an out-system fleet identifying itself as the Promethean Flame. Although the main part of the fleet was driven off, substantial Promethean land forces remain on-planet. Aletheia is resource-rich, but its people are ill-suited to the chaos of the post-Blackout period.",
+	"adventure_log": [
       "1 - STOLEN ROYAL - 404 pilots protected an aid shipment from Solano to Kardak Vale, first from a hijacking attempt by Promethean operatives, and then from attack by Naziri Compact mechs."
     ],
     "missions": [
@@ -96,8 +102,9 @@
     "system": "Marencor",
 	"status": "Strategic Extraction Zone (Vaspera–Nazir Joint Development Charter)",
     "physical": "Gas giant known for rich deposits of Helium-3 in its upper atmosphere. Native aerostatic xenobiome represents a material and cultural resource of regional importance.",
-    "history": "The Solano orbital region hosts numerous mining installations and orbital infrastructure, historically contested but now under joint economic charter between Vaspera and Nazir. Today, Solano is a site of productive cooperation, with multiple neutral trade platforms and shared logistics corridors. Union Naval assets are often rotated through Solano Garrison for fuel and atmospheric stabilization exercises. Civilian travel is restricted to designated safe zones.\n \nPost-Blackout, Union Naval personnel could not sustain Solano Garrison in the absence of regular support and resupply. Within a handful of years the base was defunct. The IPA has absorbed Solano Garrison, along with 80% of the extraction and support infrastructure around Solano. Union personnel associated with the Garrison variously joined up with the IPA, fled the system, or died.",
-    "adventure_log": [
+    "history": "The Solano orbital region hosts numerous mining installations and orbital infrastructure, historically contested but now under joint economic charter between Vaspera and Nazir. Today, Solano is a site of productive cooperation, with multiple neutral trade platforms and shared logistics corridors. Union Naval assets are often rotated through Solano Garrison for fuel and atmospheric stabilization exercises. Civilian travel is restricted to designated safe zones.",
+    "post_blackout": "Residual Union Naval personnel could not sustain Solano Garrison in the absence of regular support and resupply. Within a handful of years the base was defunct. The IPA has absorbed Solano Garrison, along with 80% of the extraction and support infrastructure around Solano. Union personnel associated with the Garrison variously joined up with the IPA, fled the system, or died.",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -111,8 +118,9 @@
     "system": "Marencor",
 	"status": "Union-Recognized Sovereign Habitat",
     "physical": "Jovian-class gas giant; uninhabitable. Population lives within orbiting network of spacecraft, icy moons, and legacy space habitats.",
-    "history": "The Naziri people live in a dense cloud of habitats, orbital cities, and mining stations orbiting the gas giant Nazir. These disparate, miniature worlds are united into a single polity, anchored by their capital and largest settlement, Habexys. Descended from FirstComm clone workers and early void settlers, the Naziri have maintained their unique identity through long periods of hardship and isolation. While some local rhetoric remains wary of outside influence, the Naziri government has formalized diplomatic ties and joined multiple Union advisory frameworks. Historic tensions with Vaspera over access to resources on Solano have now been defused thanks to Union mediation efforts. Note: be certain to seek advance permission prior to docking. Union Recontact Bureau training on Naziri cultural practices, available via OmniNet, is highly encouraged for all visitors.\n \nPost-Blackout, the Naziri have been largely driven back from their holdings around Solano. A major naval victory at the Battle of Nazir stopped the advancing IPA Navy, leaving Naziri space defended by enormous minefields and the lurking Naziri fleet. With the loss of Solano, however, they cannot replenish their losses. The Naziri position is strong, but fragile.",
-    "adventure_log": [
+    "history": "The Naziri people live in a dense cloud of habitats, orbital cities, and mining stations orbiting the gas giant Nazir. These disparate, miniature worlds are united into a single polity, anchored by their capital and largest settlement, Habexys. Descended from FirstComm clone workers and early void settlers, the Naziri have maintained their unique identity through long periods of hardship and isolation. While some local rhetoric remains wary of outside influence, the Naziri government has formalized diplomatic ties and joined multiple Union advisory frameworks. Historic tensions with Vaspera over access to resources on Solano have now been defused thanks to Union mediation efforts. Note: be certain to seek advance permission prior to docking. Union Recontact Bureau training on Naziri cultural practices, available via OmniNet, is highly encouraged for all visitors.",
+    "post_blackout": "Naziri forces have been largely driven back from their holdings around Solano. A major naval victory at the Battle of Nazir stopped the advancing IPA Navy, leaving Naziri space defended by enormous minefields and the lurking Naziri fleet. With the loss of Solano, however, they cannot replenish their losses. The Naziri position is strong, but fragile.",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -127,7 +135,8 @@
 	"status": "Constellar Biotechnology Hub",
     "physical": "Saturn-class ice giant; uninhabitable. Population lives within orbiting Island-3-pattern enclosed space colonies.",
     "history": "Avenant was one of the final systems to join the SSC Constellar Network, and has since flourished into a technologically integrated society with robust access to Omninet services, virtual infrastructure, and post-labor economic platforms. While local governance remains technically independent, Avenant’s vibrant cultural and civic life is increasingly integrated with the wider Union under SSC best-in-class management protocols. Visitors should be aware of subtle cultural distinctions between SSC-Constellar-aligned citizens and those from older, more traditional Marencor populations.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -144,7 +153,8 @@
 	"status": "Interstellar Shoal Zone",
     "physical": "Broad, dense region of interstellar dust, gas, and planetesimals on the straight-line path between Halcyon and Marencor.",
     "history": "This hazard to interstellar shipping predates human colonization and has resisted full mapping, due to erratic sensor interference, gravitational anomalies, and persistent navigational drift. Mass density within Nepenthe Drift is too high to support lightspeed travel, and poorly-understood spatio-temporal anomalies inhibit OmniNet connectivity and long-range comms. Ships entering uncharted regions of the Drift often disappear. Personnel are authorized to engage in lethal self-defense when attacked within the Drift. No rescue assets are stationed within the cloud. You are your own extraction plan.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -159,7 +169,8 @@
 	"status": "Strategic Transit Corridor (IPS-N Monitored)",
     "physical": "A nearly linear low-density feature of Nepenthe Drift.",
     "history": "This transit corridor offers the only reliable straight-line travel between Halcyon and Marencor. In spite of the ongoing threat of piracy, the corridor persists due to the enormous time-savings relative to circling around Nepenthe Drift's perimeter. The Wake is reinforced by IPS-N graviton buoys, drone minefields, and escort protocols; passage is subject to scheduling, registration, and inspection. Smugglers and non-declared vessels risk interdiction. The Wake is essential to the interstellar supply web and the ongoing prosperity of the sector.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -178,7 +189,8 @@
 	"status": "Strategic Development World (HA Purview)",
     "physical": "Tidally locked moon of Anathes; completes an orbit every 91 days. Too close to Halcyon to be habitable. The day-side of Praxis is exposed to a shower of lethal ionizing radiation.",
     "history": "Praxis is a keystone world for Harrison Armory operations in the sector. Here, a network of surface-side trawlers and orbital foundries keep pace with the unique demands of this planet's environment, producing critical quasi-stable duodecimates for the galactic marketplace. Praxis' powerful industrial base, strong local governance, and sophisticated logistics networks make it a model for Armory-led development.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -193,7 +205,8 @@
 	"status": "Union Scientific Reserve (Restricted Access)",
     "physical": "Terrestrial halogen world undergoing epochal reshaping by glaciation. Stark Earthlike beauty; highly toxic atmosphere. Unsuitable for major habitation.",
     "history": "Eidara is a low-population world rich in archaeological and ecological significance. One of the few known worlds with confirmed pre-human structures of unknown origin; Union xenohistorical teams have worked for decades to study them. Due to the sensitive nature of these sites, planetary access is tightly controlled, and all excavation is regulated by the Eidaran Council in cooperation with Union Science Bureau.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -208,7 +221,8 @@
 	"status": "OmniNet Relay Node",
     "physical": "Terrestrial world. Lush and humid, with a thick atmosphere that nearly blots out the sky. Quasi-habitable: the atmosphere is barely breathable at a constant 100% humidity. Mireddin's biome is dominated by microbial mats that use chemosynthesis to exploit chemical gradients around volcanic vents.",
     "history": "Mireddin was once a compromised SecComm relay node, abandoned for over a century due to internal instability and long-term communications corruption. In recent decades, ThirdComm has restored portions of the infrastructure and begun reintegration efforts. The planet remains lightly populated by resilient settlers descended from early relay technicians and maintenance crews.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -223,7 +237,8 @@
 	"status": "Civilian Industrial Belt",
     "physical": "Planetary-mass asteroid belt rich in iron and other minerals.",
     "history": "The Ironbelt is an important center for asteroid mining of bulk metals, materials processing, and small-scale ship fabrication. The largest mining concern is Marnix Beltworks, a millennia-old offshoot of the colony on Veletris. Known for their transparency, collective ownership, and history of inter-factional mediation, Marnix has become a trusted neutral party in the system. Many ThirdComm supply contracts are handled here thanks to their efficiency and reliability. Note: the Ironbelt has no formal military presence, but maintains robust civilian defense systems. Visiting ships are expected to abide by the Belt Neutrality Code.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -238,7 +253,8 @@
 	"status": "Union-Aligned, Independent Administration",
     "physical": "Habitable moon of picturesque gas giant Pericant. Beyond Halcyon's expected habitable zone; internally heated by tidal friction.",
     "history": "Veletris is a vibrant and diverse ecumenopolis, with a flourishing arts scene and a long tradition of civic participation. Governed by a decentralized council system, it has emerged as a center of intersystem diplomacy and regional planning. The planet’s multi-ethnic heritage and neutral politics make it an ideal meeting point for stakeholders from across the cluster. Considered a strong candidate for near-term Union Core status.",
-    "adventure_log": [
+    "post_blackout": "UNKNOWN",
+	"adventure_log": [
       "NULL"
     ],
     "missions": [
@@ -248,6 +264,7 @@
     ]
   }
 }
+
 
 
 
