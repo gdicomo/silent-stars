@@ -66,7 +66,7 @@
 	"system": "Marencor",
 	"status": "Union-Aligned Autonomous Government",
     "physical": "Hot, dry super-Earth. Vast plains, inhospitable thanks to the thin atmosphere and scorching light of nearby Marencor, are home to solar farms and industry. Most of the population makes their homes in kilometers-deep valleys, where they find a breathable atmosphere, liquid water, and shelter from the heat.",
-    "history": "Magellan, the pre-Fall generation ship that settled Vaspera millennia ago, is still visible in orbit as one of the system's most scenic vistas. Once the seat of the Inner Planets Alliance, Vaspera boasts a proud legacy of industrial innovation, resource management, and planetary-scale governance. Since Union integration, Vaspera has restructured its military-industrial base for peaceful purposes and now provides logistical support, medical exports, and shipwright expertise to nearby systems. A robust educational reform program is in progress. Vaspera retains ceremonial control over the old IPA defense fleet, now refit for patrol and disaster relief. The local government remains proud of its independence and is considered a model for responsible planetary autonomy.",
+    "history": "Magellan, the pre-Fall generation ship that settled Vaspera millennia ago, is still visible in orbit as one of the system's most scenic vistas. Once the seat of the Inner Planets Alliance, Vaspera boasts a proud legacy of industrial innovation, resource management, and planetary-scale governance. Since Union integration, Vaspera has restructured its military-industrial base for peaceful purposes and now provides logistical support, medical exports, and shipwright expertise to nearby systems. A robust educational reform program is in progress. Vaspera retains ceremonial control over the old IPA defense fleet, now refit for patrol and disaster relief. The local government remains proud of its independence and is considered a model for responsible planetary autonomy.\nPost-Blackout, Vasperan politics progressively radicalized in response to the percieved power vacuum. Under the banner of the ancient IPA, a newly militarized Vaspera united with Aletheia and seized contested infrastructure around Solano. An attempted strike at the Naziri homeland failed disastrously, leaving the war at a stalemate. The IPA position is tenuous, but they could easily generate momentum if given the opportunity.",
     "adventure_log": [
       "NULL"
     ],
@@ -81,9 +81,9 @@
     "system": "Marencor",
 	"status": "Union-Aligned, Partial Reintegration",
     "physical": "Temperate terrestrial world, somewhat smaller than Earth. Ideally suited for habitation and agriculture.",
-    "history": "Once barren, Aletheia was seeded with life by an early Union settlement ship. The people of Aletheia live in harmony with nature, allowing it to support scattered population centers while serving as Marencor system's breadbasket. Once a member state of the IPA, Aletheia today is a cultural gem of the system, a site of flourishing artistic, academic, and spiritual traditions. Many Aletheian Councils maintain formal alliances with Vaspera but often exercise independent judgment in interplanetary affairs. Considered a near-term candidate for admission to Union Core status.",
+    "history": "Once barren, Aletheia was seeded with life by an early Union settlement ship. The people of Aletheia live in harmony with nature, allowing it to support scattered population centers while serving as Marencor system's breadbasket. Once a member state of the IPA, Aletheia today is a cultural gem of the system, a site of flourishing artistic, academic, and spiritual traditions. Many Aletheian Councils maintain formal alliances with Vaspera but often exercise independent judgment in interplanetary affairs. Considered a near-term candidate for admission to Union Core status.\nAs part of the resurgent Inner Planets Alliance, Aletheia has recently been drawn into war wit the Naziri Compact. In the wake of the disastrous Battle of Nazir, IPA mech forces are increasingly dependent on the Aletheian fleet for transport and logistics.\nAletheia recently came under attack by an out-system fleet identifying itself as the Promethean Flame. Although the main part of the fleet was driven off, substantial Promethean land forces remain on-planet.",
     "adventure_log": [
-      "NULL"
+      "1 - STOLEN ROYAL - 404 operatives protected an aid shipment to Kardak Vale from attack by Naziri Compact mechs."
     ],
     "missions": [
       "NULL",
@@ -96,7 +96,7 @@
     "system": "Marencor",
 	"status": "Strategic Extraction Zone (Vaspera–Nazir Joint Development Charter)",
     "physical": "Gas giant known for rich deposits of Helium-3 in its upper atmosphere. Native aerostatic xenobiome represents a material and cultural resource of regional importance.",
-    "history": "The Solano orbital region hosts numerous mining installations and orbital infrastructure, historically contested but now under joint economic charter between Vaspera and Nazir. Today, Solano is a site of productive cooperation, with multiple neutral trade platforms and shared logistics corridors. Union Naval assets are often rotated through Solano Garrison for fuel and atmospheric stabilization exercises. Civilian travel is restricted to designated safe zones.",
+    "history": "The Solano orbital region hosts numerous mining installations and orbital infrastructure, historically contested but now under joint economic charter between Vaspera and Nazir. Today, Solano is a site of productive cooperation, with multiple neutral trade platforms and shared logistics corridors. Union Naval assets are often rotated through Solano Garrison for fuel and atmospheric stabilization exercises. Civilian travel is restricted to designated safe zones.\nPost-Blackout, Union Naval personnel could not sustain Solano Garrison in the absence of regular support and resupply. Within a handful of years the base was defunct. The IPA has absorbed Solano Garrison, along with 80% of the extraction and support infrastructure around Solano. Union personnel associated with the Garrison variously joined up with the IPA, fled the system, or died.",
     "adventure_log": [
       "NULL"
     ],
@@ -111,7 +111,7 @@
     "system": "Marencor",
 	"status": "Union-Recognized Sovereign Habitat",
     "physical": "Jovian-class gas giant; uninhabitable. Population lives within orbiting network of spacecraft, icy moons, and legacy space habitats.",
-    "history": "The Naziri people live in a dense cloud of habitats, orbital cities, and mining stations orbiting the gas giant Nazir. These disparate, miniature worlds are united into a single polity, anchored by their capital and largest settlement, Habexys. Descended from FirstComm clone workers and early void settlers, the Naziri have maintained their unique identity through long periods of hardship and isolation. While some local rhetoric remains wary of outside influence, the Naziri government has formalized diplomatic ties and joined multiple Union advisory frameworks. Historic tensions with Vaspera over access to resources on Solano have now been defused thanks to Union mediation efforts. Note: be certain to seek advance permission prior to docking. Union Recontact Bureau training on Naziri cultural practices, available via OmniNet, is highly encouraged for all visitors.",
+    "history": "The Naziri people live in a dense cloud of habitats, orbital cities, and mining stations orbiting the gas giant Nazir. These disparate, miniature worlds are united into a single polity, anchored by their capital and largest settlement, Habexys. Descended from FirstComm clone workers and early void settlers, the Naziri have maintained their unique identity through long periods of hardship and isolation. While some local rhetoric remains wary of outside influence, the Naziri government has formalized diplomatic ties and joined multiple Union advisory frameworks. Historic tensions with Vaspera over access to resources on Solano have now been defused thanks to Union mediation efforts. Note: be certain to seek advance permission prior to docking. Union Recontact Bureau training on Naziri cultural practices, available via OmniNet, is highly encouraged for all visitors.\nPost-Blackout, the Naziri have been largely driven back from their holdings around Solano. A major naval victory at the Battle of Nazir stopped the advancing IPA Navy, leaving Naziri space defended by enormous minefields and the lurking Naziri fleet. With the loss of Solano, however, they cannot replenish their losses. The Naziri position is strong, but fragile.",
     "adventure_log": [
       "NULL"
     ],
@@ -248,3 +248,4 @@
     ]
   }
 }
+
