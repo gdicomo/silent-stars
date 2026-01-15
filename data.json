@@ -108,9 +108,9 @@
       "NULL"
     ],
     "missions": [
-      "NULL",
-      "NULL",
-	  "NULL"
+      "Pemar Six Voro is an engineer on a neutral resourcing base in orbit around Solano. He’d like your help destroying the central management systems onboard the base… systems he helped build. The survival of the base, and its crew, may depend on it.",
+      "Sovira Pellatoro, a Catalyst Mutual representative on Solano Garrison, wants to find out what’s happening at a mining town on Vaspera. Declining catalyst output has escalated into the disappearance of a transport craft, a team of auditors, and two company mechs. Now it’s time to call in the big guns: you guys.",
+	  "Artemis Greene wants you to accompany an IPA mech wing to intercept some Naziri resource shuttles. The objectives seem straightforward, but he’s convinced the mission will benefit from the presence of pilots who can \"think on their feet.\""
     ]
   },
   
@@ -264,6 +264,7 @@
     ]
   }
 }
+
 
 
 
